@@ -20,6 +20,11 @@ class MainActivity2 : AppCompatActivity() {
         var frgmnt01 = Fragment01()
         var frgmnt02 = Fragment02()
 
+        ///
+
+        //
+
+        //
 
         mBtn1.setOnClickListener{
             supportFragmentManager.beginTransaction().apply {
