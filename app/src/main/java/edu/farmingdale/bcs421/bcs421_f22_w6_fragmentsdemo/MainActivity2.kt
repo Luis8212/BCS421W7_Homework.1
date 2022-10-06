@@ -26,6 +26,10 @@ class MainActivity2 : AppCompatActivity() {
 
         //
 
+        //
+
+        //
+
         mBtn1.setOnClickListener{
             supportFragmentManager.beginTransaction().apply {
                 replace(R.id.framelayout1, frgmnt01)
