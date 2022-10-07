@@ -34,7 +34,7 @@ class MainActivity2 : AppCompatActivity() {
                 editit.setText(p1.toString())
                 mTV.setTextSize(p1.toFloat())
 
-            }
+             }
 
             override fun onStartTrackingTouch(p0: SeekBar?) {
 
